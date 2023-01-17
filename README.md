@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew! <a href="https://www.linkedin.com/in/matthewcadle/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Matthew! <a href="https://www.linkedin.com/in/matthewcadle/" target="_blank">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
