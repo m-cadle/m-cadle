@@ -1,26 +1,13 @@
 <h1>Hi, I'm Matthew! <a href="https://www.linkedin.com/in/matthewcadle/" >Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-<h2>📺  YouTube Videos:</h2>
-
+- <b>Azure SOC/Honeynet</b>
+  - [Creating a live SOC/Honeynet in Azure] (https://github.com/m-cadle/Azure-SOC-Honeynet)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MatthewCadle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/matthewcadle
 
-<!--
-**m-cadle/m-cadle is now a special repository: its README.md will appear on your profile! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
