@@ -4,7 +4,9 @@
 - <b>Azure SOC/Honeynet</b>
   - [Creating a live SOC/Honeynet in Azure] (https://github.com/m-cadle/Azure-SOC-Honeynet) <br>
 - <b>Azure Vulnerability Management</b> 
-  - [Scanning and remediating assets in Azure] (https://github.com/m-cadle/Azure-Vulnerability-Management)
+  - [Scanning and remediating assets in Azure] (https://github.com/m-cadle/Azure-Vulnerability-Management) <br>
+- <b>Trust Service Criteria Mapping<b/>
+  -[Mapping the Trust Service Criteria to real world examples]
   
 <h2> 🤳 Connect with me:</h2>
 
