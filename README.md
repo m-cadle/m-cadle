@@ -6,7 +6,7 @@
 - <b>Azure Vulnerability Management</b> 
   - [Scanning and remediating assets in Azure] (https://github.com/m-cadle/Azure-Vulnerability-Management) <br>
 - <b>Trust Services Criteria Mapping<b/>
-  -[Mapping the Trust Services Criteria to real world examples] (https://github.com/m-cadle/TSC-Mapping)
+  - [Mapping the Trust Services Criteria to real world examples] (https://github.com/m-cadle/TSC-Mapping)
   
 <h2> 🤳 Connect with me:</h2>
 
